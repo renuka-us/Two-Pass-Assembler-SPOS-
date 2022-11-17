@@ -1,3 +1,0 @@
-Index	Symbol	Address
-1 	A	209
-2	B	204
