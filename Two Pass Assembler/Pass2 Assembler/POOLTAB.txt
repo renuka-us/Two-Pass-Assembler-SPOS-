@@ -1,0 +1,4 @@
+Index   Index of first literal in every literal pool
+1       1
+2       2
+3       4

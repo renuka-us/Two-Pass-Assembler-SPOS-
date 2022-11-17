@@ -1,0 +1,17 @@
+Output for Input.asm assembly code
+Literal table
+Index    Literal        Address
+1       30      102
+2       23      202
+3       29      203
+4       27      210
+5       56      211
+Pool table
+Index   Index of first literal in every literal pool
+1       1
+2       2
+3       4
+Symbol table
+Index   Symbol  Address
+1       A       209
+2       B       204
